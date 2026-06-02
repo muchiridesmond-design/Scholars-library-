@@ -1,4 +1,4 @@
-# Scholars-library-unzip scholars-library-render.zip && cd scholars-library
+unzip scholars-library-render.zip && cd scholars-library
 git init && git add . && git commit -m "initial"
 git remote add origin https://github.com/YOUR_USER/scholars-library.git
 git push -u origin main
